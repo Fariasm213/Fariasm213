@@ -15,6 +15,6 @@
 
 
 
-[instagram]: https://www.instagram.com/the.miguel.farias
+[instagram]: https://www.instagram.com/the.miguel.farias/
 [linkedin]: https://linkedin.com/in/themiguelfarias
 
