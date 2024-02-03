@@ -1,4 +1,4 @@
-<h1>Hi, I'm Miguel! Passionate Cybersecurity Analyst</h1>
+<h1>Hi, I'm Miguel! Passionate Cybersecurity proffesional</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
