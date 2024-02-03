@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Fariasm213/Azure-SOC.git)
 
 - <b>Python Algorithm Project </b>
-  - [Creating Algorithm for file updates in Python](https://github.com/Fariasm213/Python-Algorithm)
+  - [Creating an Algorithm for file updates in Python](https://github.com/Fariasm213/Python-Algorithm)
   
 
 
